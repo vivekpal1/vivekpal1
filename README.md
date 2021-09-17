@@ -10,7 +10,6 @@ enthusiast.
     <details>
       <summary>Contact me</summary>
       <ul>
-          <li><a href="https://twitter.com/vivekpal_">Twitter</a></li>
           <li><a href="https://www.linkedin.com/in/vivekpal-/">Linkedin</a></li>
           <li><a href="mailto:31vivekpal@gmail.com">Send an Email</a></li>
           <li><a href="https://codepen.io/vivekpal/">Codepen</a></li>

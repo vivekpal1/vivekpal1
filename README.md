@@ -7,6 +7,6 @@
 I'm Vivek. A Web Developer from India. A fast learner. IoT an Blockchain 
 enthusiast.
      <br><br>Contact me on <a href="https://twitter.com/vivekpal_">Twitter</a>, <a href="https://www.linkedin.com/in/vivekpal
-       -/">Linkedin</a>, or <a href="mailto:31vivekpal@gmail.com">Send an Email</a>
+       -/">Linkedin</a>, <a href="mailto:31vivekpal@gmail.com">Send an Email</a>, or <a href="https://www.instagram.com/vivekthinks/">Follow me on Instagram</a>
   </samp>
 </p>

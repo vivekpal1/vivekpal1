@@ -8,11 +8,13 @@
 I'm a Web Developer from  <img src="https://www.seekpng.com/png/full/250-2508510_india-png-transparent-clip-art-image-india-text.png" width="50px">. A fast learner. IoT and Blockchain 
 enthusiast.
      <br><br>Contact me on <br>
-    <a href="https://twitter.com/vivekpal_">Twitter</a>
-    <a href="https://www.linkedin.com/in/vivekpal-/">Linkedin</a>
-    <a href="mailto:31vivekpal@gmail.com">Send an Email</a>
-    <a href="https://codepen.io/vivekpal/">Codepen</a>
-    <a href="https://instagram.com/vivekthinks/">Follow me on Instagram</a>
+    <li>
+       <ul><a href="https://twitter.com/vivekpal_">Twitter</a></ul>
+       <ul><a href="https://www.linkedin.com/in/vivekpal-/">Linkedin</a></ul>
+       <ul><a href="mailto:31vivekpal@gmail.com">Send an Email</a></ul>
+       <ul><a href="https://codepen.io/vivekpal/">Codepen</a></ul>
+       <ul><a href="https://instagram.com/vivekthinks/">Follow me on Instagram</a></ul>
+    </li>  
   </samp>
   <br>
 <img src="https://c.tenor.com/WhwAo4NZzY8AAAAj/thekinardist-programming.gif" width="200px">

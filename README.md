@@ -10,3 +10,4 @@ enthusiast.
        -/">Linkedin</a>, <a href="mailto:31vivekpal@gmail.com">Send an Email</a>, or <a href="https://www.instagram.com/vivekthinks/">Follow me on Instagram</a>
   </samp>
 </p>
+<img src="https://c.tenor.com/WhwAo4NZzY8AAAAj/thekinardist-programming.gif" width="70px">

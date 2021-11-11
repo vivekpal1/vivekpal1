@@ -19,6 +19,3 @@ enthusiast.
           
   </samp>
   <br>
-<img src="https://c.tenor.com/WhwAo4NZzY8AAAAj/thekinardist-programming.gif" width="200px">
-</p>
-  

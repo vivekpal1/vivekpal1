@@ -5,8 +5,7 @@
   <img src="https://logos.textgiraffe.com/logos/logo-name/vivek-designstyle-boots-m.png" width="400px">
   <br><br>
   <samp>
-I'm a Web Developer from  <img src="https://www.seekpng.com/png/full/250-2508510_india-png-transparent-clip-art-image-india-text.png" width="50px">. A fast learner. IoT and Blockchain 
-enthusiast.
+I'm a Web Developer from  <img src="https://www.seekpng.com/png/full/250-2508510_india-png-transparent-clip-art-image-india-text.png" width="50px">.
     <details>
       <summary>Contact me</summary>
       <ul>

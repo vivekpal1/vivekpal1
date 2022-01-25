@@ -13,7 +13,7 @@ I'm a Web Developer from  <img src="https://www.seekpng.com/png/full/250-2508510
           <li><a href="https://codepen.io/vivekpal/">Codepen</a></li>
           <li><a href="https://instagram.com/vivekthinks/">Follow me on Instagram</a></li>
          <li><a href="https://www.linkedin.com/in/vivekpal1/">Linkedin</a></li>
-        <li><a href="https://www.twitter.com/vivekpal_/">Linkedin</a></li>
+        <li><a href="https://www.twitter.com/vivekpal_/">Twitter</a></li>
     </ul>
   </details>
           

@@ -6,6 +6,7 @@
   <br><br>
   <samp>
 I'm a Web Developer from  <img src="https://www.seekpng.com/png/full/250-2508510_india-png-transparent-clip-art-image-india-text.png" width="50px">.
+         <br><br> <a href="https://vivekpal.vercel.app/">My Website</a>
     <details>
       <summary>Contact me</summary>
       <ul>
@@ -18,6 +19,5 @@ I'm a Web Developer from  <img src="https://www.seekpng.com/png/full/250-2508510
   </details>
           
   </samp>
-        <br><br> <a href="vivekpal.vercel.app">My Website</a>
   <be>
   

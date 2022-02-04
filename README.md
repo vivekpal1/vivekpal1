@@ -4,8 +4,7 @@
   <img src="https://logos.textgiraffe.com/logos/logo-name/26266952-designstyle-tools-m.png" width="150px"> <br>
   <img src="https://logos.textgiraffe.com/logos/logo-name/vivek-designstyle-boots-m.png" width="400px">
   <br><br>
-  <samp>
-#### I'm a Web Developer from  <img src="https://www.seekpng.com/png/full/250-2508510_india-png-transparent-clip-art-image-india-text.png" width="50px">.
+  <samp>I'm a Web Developer from  <img src="https://www.seekpng.com/png/full/250-2508510_india-png-transparent-clip-art-image-india-text.png" width="50px">.
          <br><br> <a href="https://vivekpal.vercel.app/">My Website</a>
     <details>
       <summary>Contact me</summary>

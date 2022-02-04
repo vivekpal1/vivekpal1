@@ -1,4 +1,4 @@
-#### Hello Codders <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px">
+#### Hello Codders <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
 
 <p align="center">
   <img src="https://logos.textgiraffe.com/logos/logo-name/26266952-designstyle-tools-m.png" width="150px"> <br>

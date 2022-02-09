@@ -65,7 +65,7 @@
 ---
 ### My Personal Website
 
-<a href="https://vivekpal.vercel.app"><img src="https://raw.githubusercontent.com/vivekpal1/My-Logos/main/My-Website/Vanilla-0.5s-267px%20(1).gif?token=GHSAT0AAAAAABRL7P3YU4BNEAJD7J35W3KKYQEAYUA" width="200px" style="border-radius:50%" /></a>
+<a href="https://vivekpal.vercel.app"><img src="https://raw.githubusercontent.com/vivekpal1/My-Logos/main/My-Website/Vanilla-0.5s-267px%20(1).gif?token=GHSAT0AAAAAABRL7P3YGWXN2HCXWD3PGXHWYQECSTA" width="200px" style="border-radius:50%" /></a>
 
 
 ---
@@ -75,6 +75,6 @@
 <p>
    <a href="https://instagram.com/vivekthinks/" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/purple-neon-instagram-logo-icon-png-31629066942dqrhid0kut.png" alt="josue_rojasv" height="40" width="40" /></a> ...
  <a href="https://twitter.com/vivekpal_" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/-51614965023fopywzit3m.png" alt="vivekpal_" height="40" width="50" /></a> ...
-  <a href="https://linkedin.com/in/www.linkedin.com/in/vivekpal1/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/neon-social-icons-set/256/social_media_icons_neon_set_256x256_0010_linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vivekpal1/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/neon-social-icons-set/256/social_media_icons_neon_set_256x256_0010_linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
  
 </p>

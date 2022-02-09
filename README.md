@@ -17,6 +17,7 @@
 
 #### Languages and Tools
 
+
 <p align="left">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
@@ -28,6 +29,9 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
   <br />
+  
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" align="right">
+  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
@@ -39,8 +43,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
    <br />
 </p>
-
-<br>
 
 #### My Gear
 
@@ -62,6 +64,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></code>
   <br />
 </p>
+
+<br>
 
 ---
 

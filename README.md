@@ -9,10 +9,10 @@
 - 💻 Learning Some stuff about 3D web like webgl and webvr erc
 
 ---
-<img align="left" alt="Portfolio" height="100px" src="https://vivekpal.vercel.app/_next/image?url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1485909473307-a4b49634c861%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D1169%26q%3D80&w=1920&q=75" />
-<a href="https://vivekpal.vercel.app/">My Personal Website</a>
+### My Personal Website
 
-<br><br><br>
+<a href="https://vivekpal.vercel.app"><img src="https://www.seekpng.com/png/detail/111-1112824_picture-my-portfolio-logo-png.png" width="200px" style="border-radius:50%" /></a>
+
 ---
 
 #### Languages and Tools

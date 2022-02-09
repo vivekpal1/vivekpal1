@@ -54,7 +54,7 @@
   <code><img width="7%" src="https://arkit.co.in/wp-content/uploads/2016/10/Editing-Viewing-Text-files-using-Nano-text-editor-RHEL-7.png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></code>
   <code><img width="8%" src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg"></code>
+  <code><img width="4%" src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg"></code>
   <br />
   <code><img width="10%" src="https://www.dmuth.org/wp-content/uploads/2021/03/obsidian-logo.png"></code>
   <code><img width="12%" src="https://download.blender.org/branding/blender_logo_socket.png"></code>

@@ -51,12 +51,12 @@
   <code><a href="https://www.nano-editor.org"><img width="7%" src="https://arkit.co.in/wp-content/uploads/2016/10/Editing-Viewing-Text-files-using-Nano-text-editor-RHEL-7.png"></a></code>
   <code><a href="https://atom.io"><img width="10%" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></a></code>
   <code><a href="https://code.visualstudio.com"><img width="8%" src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png"></a></code>
-  <code><a href=""><img width="4%" src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg"></a></code>
+  <code><a href="https://www.mozilla.org/en-US/firefox/"><img width="4%" src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg"></a></code>
   <br />
-  <code><a href=""><img width="10%" src="https://www.dmuth.org/wp-content/uploads/2021/03/obsidian-logo.png"></a></code>
-  <code><a href=""><img width="12%" src="https://download.blender.org/branding/blender_logo_socket.png"></a></code>
-  <code><a href=""><img width="10%" src="https://logos-download.com/wp-content/uploads/2019/06/Vivaldi_Logo_new_full.png"></a></code>
-  <code><a href=""><img width="10%" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></a></code>
+  <code><a href="https://obsidian.md"><img width="10%" src="https://www.dmuth.org/wp-content/uploads/2021/03/obsidian-logo.png"></a></code>
+  <code><a href="https://www.blender.org"><img width="12%" src="https://download.blender.org/branding/blender_logo_socket.png"></a></code>
+  <code><a href="https://vivaldi.com"><img width="10%" src="https://logos-download.com/wp-content/uploads/2019/06/Vivaldi_Logo_new_full.png"></a></code>
+  <code><a href="https://www.gimp.org"><img width="10%" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></a></code>
   <br />
 </p>
 

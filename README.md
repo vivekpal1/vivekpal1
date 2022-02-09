@@ -1,6 +1,5 @@
 ### Hello Codders <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
 
-
 <img align="right" alt="GIF" height="160px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4705mcyj66uz0lbnk015vvqm9qboik7g2ydbpiw573&rid=giphy.gif&ct=g" />
 
 ## This is Vivek Pal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">

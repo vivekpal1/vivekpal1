@@ -15,13 +15,13 @@
 <br><br><br>
 ---
 
-**Languages and Tools:**
+#### Languages and Tools
 
-<p>
+<p align="left">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1920px-Nextjs-logo.svg.png"></code>
+  <code><img width="9%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1920px-Nextjs-logo.svg.png"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
@@ -40,7 +40,32 @@
    <br />
 </p>
 
-----
+<br>
+
+#### My Gear
+
+<p align="left">
+  <code><img width="9%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
+  <code><img width="12%" src="https://i0.wp.com/endeavouros.com/wp-content/uploads/2021/04/Endeavour-horizontal-white.png?w=690&ssl=1"></code>
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/gnome/gnome-ar21.svg"></code>
+  <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Alacritty_logo.svg/1024px-Alacritty_logo.svg.png"></code>
+  <br />
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
+  <code><img width="7%" src="https://arkit.co.in/wp-content/uploads/2016/10/Editing-Viewing-Text-files-using-Nano-text-editor-RHEL-7.png"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></code>
+  <code><img width="8%" src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.dmuth.org/wp-content/uploads/2021/03/obsidian-logo.png"></code>
+  <code><img width="12%" src="https://download.blender.org/branding/blender_logo_socket.png"></code>
+  <code><img width="10%" src="https://logos-download.com/wp-content/uploads/2019/06/Vivaldi_Logo_new_full.png"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg"></code>
+  <br />
+</p>
+
+---
+
+<br>
    <samp>
     <details>
       <summary>Contact me</summary>

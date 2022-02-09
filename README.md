@@ -65,7 +65,7 @@
 ---
 ### My Personal Website
 
-<a href="https://vivekpal.vercel.app"><img src="https://www.seekpng.com/png/detail/111-1112824_picture-my-portfolio-logo-png.png" width="200px" style="border-radius:50%" /></a>
+<a href="https://vivekpal.vercel.app"><img src="https://raw.githubusercontent.com/vivekpal1/My-Logos/main/My-Website/Vanilla-0.5s-267px%20(1).gif?token=GHSAT0AAAAAABRL7P3YU4BNEAJD7J35W3KKYQEAYUA" width="200px" style="border-radius:50%" /></a>
 
 
 ---

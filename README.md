@@ -22,7 +22,7 @@
   <code><a href="https://yarnpkg.com"><img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></a>⭐</code>
   <br />
   
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" align="right">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" align="right">
   
   <code><a href="https://www.python.org"><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
   <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>

@@ -1,7 +1,5 @@
 ### Hello Codders <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
 
-<img align="right" alt="GIF" height="160px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4705mcyj66uz0lbnk015vvqm9qboik7g2ydbpiw573&rid=giphy.gif&ct=g" />
-
 ## This is Vivek Pal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, Next.js etc.
@@ -24,7 +22,7 @@
   <code><a href="https://yarnpkg.com"><img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></a>⭐</code>
   <br />
   
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" align="right">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" align="right">
   
   <code><a href="https://www.python.org"><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
   <code><a href="https://flask.palletsprojects.com/en/2.0.x/"><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>

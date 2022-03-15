@@ -3,6 +3,7 @@
 ## This is Vivek Pal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, Next.js etc.
+- 🧡 I love JavaScript. I love Linux.
 - 💻 Learning Some stuff about 3D web like webgl and webvr erc
 ---
 

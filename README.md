@@ -2,9 +2,10 @@
 
 ## This is Vivek Pal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, Next.js etc.
+- 👨‍💻 I’m currently working with web development technologies like JavaScript, React, Next.js etc.
+- 🔨 Building  <a href="https://shastraos.vercel.app"><img src="https://i.ibb.co/TTZhNrK/mini-Gif-20220323214829.gif" width="80px" style="border-radius:50%" /></a>
 - 🧡 I love JavaScript. I love Linux.
-- 💻 Learning Some stuff about 3D web like webgl and webvr erc
+- 💻 Learning Some stuff about web 3, smart contracts etc
 ---
 
 ### My Personal Website

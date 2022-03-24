@@ -12,9 +12,7 @@
 
 <a href="https://vivekpal.vercel.app"><img src="https://i.ibb.co/Z1hKgVV/Vanilla-0-5s-267px-1.gif" width="200px" style="border-radius:50%" /></a>
 
-
 ---
-
 <h3>Connect with me:</h3>
 
 <p>
@@ -23,3 +21,10 @@
   <a href="https://www.linkedin.com/in/vivekpal1/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/neon-social-icons-set/256/social_media_icons_neon_set_256x256_0010_linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
  
 </p>
+
+---
+
+#### Support Me
+##### Buy me a coffee
+<a href="https://www.buymeacoffee.com/vivekpal"><img src="https://media1.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif?cid=790b76118207a500aa3d86244254d54bbd57dae6b077eafd&rid=giphy.gif&ct=s" width="80px" style="border-radius:50%" /></a>
+

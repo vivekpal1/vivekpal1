@@ -30,7 +30,9 @@
 
 ---
 
-![snake gif](https://github.com/vivekpal1/vivekpal1/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 ---
 

@@ -24,7 +24,7 @@
 
 ---
 
-#### Support Me
+### Support Me
 ##### Buy me a coffee
 <a href="https://www.buymeacoffee.com/vivekpal"><img src="https://media1.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif?cid=790b76118207a500aa3d86244254d54bbd57dae6b077eafd&rid=giphy.gif&ct=s" width="80px" style="border-radius:50%" /></a>
 

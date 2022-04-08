@@ -13,7 +13,6 @@
 <a href="https://vivekpal.vercel.app"><img src="https://i.ibb.co/Z1hKgVV/Vanilla-0-5s-267px-1.gif" width="200px" style="border-radius:50%" /></a>
 
 ---
-<h3>Connect with me:</h3>
 
 <p>
    <a href="https://instagram.com/vivekthinks/" target="blank"><img align="center" src="https://pluspng.com/img-png/instagram-icon-png-instagram-icon-png-50-px-1600.png" alt="josue_rojasv" height="40" width="40" /></a> ...
@@ -24,15 +23,14 @@
 
 ---
 
-### Support Me
 ##### Buy me a coffee
 <a href="https://www.buymeacoffee.com/vivekpal"><img src="https://media1.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif?cid=790b76118207a500aa3d86244254d54bbd57dae6b077eafd&rid=giphy.gif&ct=s" width="50px" style="border-radius:50%" /></a>
-
+<!-- 
 ---
 
 <p align="center">
   <img src="https://github.com/vivekpal1/vivekpal1/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
----
+--- -->
 

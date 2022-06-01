@@ -1,9 +1,8 @@
-### Hello Codders <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
-
+### Hello Codders 
 ## This is Vivek Pal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 - 👨‍💻 I’m currently working with web development technologies like JavaScript, React, Next.js etc.
-- 🔨 Building  <a href="https://shastraos.vercel.app"><img src="https://i.ibb.co/TTZhNrK/mini-Gif-20220323214829.gif" width="80px" style="border-radius:50%" /></a>
+- 🔨 Building  <a href="https://shastraos.vercel.app">ShastraOS</a>
 - 🧡 I love JavaScript. I love Linux.
 - 💻 Learning Some stuff about web 3, smart contracts etc
 ---
@@ -23,13 +22,7 @@
 
 
 ## 
-
-
-##### Buy me a coffee
-<a href="https://www.buymeacoffee.com/vivekpal"><img src="https://media1.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif?cid=790b76118207a500aa3d86244254d54bbd57dae6b077eafd&rid=giphy.gif&ct=s" width="50px" style="border-radius:50%" /></a>
-<!-- 
----
-
+<!---
 <p align="center">
   <img src="https://github.com/vivekpal1/vivekpal1/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>

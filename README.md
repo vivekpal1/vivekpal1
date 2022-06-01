@@ -9,7 +9,7 @@
 
 ### My Personal Website
 
-<a href="https://vivekpal.in"><img src="https://i.ibb.co/Z1hKgVV/Vanilla-0-5s-267px-1.gif" width="180px" style="border-radius:50%" /></a>
+<a href="https://vivekpal.in">vivekpal.in</a>
 
 ##
 

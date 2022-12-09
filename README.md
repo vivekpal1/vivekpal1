@@ -1,7 +1,7 @@
 ### Hello Codders 
 ## This is Vivek Pal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-- 👨‍💻 I’m currently working with web technologies like TypeScript, React, Next.js, Web3.js etc.
+- 👨‍💻 I’m currently working with web technologies like TypeScript, React, Next.js, Web3.js, Three.js etc.
 - 👨‍💻 Learning Rust, Blockchain, Web3 etc.
 - 🔨 Building  <a href="https://shastraos.vercel.app">ShastraOS</a>
 - 🧡 I love JavaScript. I love Linux. I love Open Source

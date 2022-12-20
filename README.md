@@ -1,13 +1,13 @@
 ### Hello Coders 
 ## This is Vivek Pal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-- 👨‍💻 I’m currently working with technologies like <br />
+- 👨‍💻 Technologies I use <br />
 > <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/icons8-javascript.svg" width="30"> <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/icons8-typescript.svg" width="30"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/icons8-rust-is-a-multi-paradigm-system-programming-language-96.png?raw=true" width="30"> <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/icons8-next.js-144.png" width="30"> <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/threejs.png" width="60"> <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/icons8-ethereum-48.png" width="30"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="30"> <img src="https://www.iconsdb.com/icons/preview/white/linux-xxl.png" width="30"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/787248.png" width="30"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/gnome_512x512.png" width="30"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/dff7764bc47d4467874fce8f3670d206.png" width="30">
 
 #
 
-- 👨‍💻 Tools I use <br />
-> <img src="https://forum.obsidian.md/uploads/default/original/2X/6/6df43bc4ee96f0a1b67ff3600caf6879b758a743.png" width="30"> <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/Apps-Inkscape-icon.png" width="30"> <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/37021919.png" width="30"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/blender_logo_socket.png?raw=true" width="90"> <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/gnome_512x512.png" width="30"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/app-icon.png?raw=true" width="30"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/vim-icon.png?raw=true" width="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png" width="30">
+- 👨‍💻 Some more tools, I use <br />
+> <img src="https://forum.obsidian.md/uploads/default/original/2X/6/6df43bc4ee96f0a1b67ff3600caf6879b758a743.png" width="30"> <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/Apps-Inkscape-icon.png" width="30"> <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/37021919.png" width="30"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/blender_logo_socket.png?raw=true" width="90"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/app-icon.png?raw=true" width="30"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/vim-icon.png?raw=true" width="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png" width="30">
 
 #
 

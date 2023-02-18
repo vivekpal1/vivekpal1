@@ -12,7 +12,7 @@
 #
 
 - 🔨 Building
-> <a href="https://shastraos.org/"><img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/shastraos-icon-full02.png" width="100"></a>
+> <a href="https://shastraos.org/"><img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/shastraos-icon-full02.png" width="100"></a><a href="https://github.com/Solway-Shastra"><img src="https://raw.githubusercontent.com/sol-inn/.github/main/profile/assets/logo.png" width="100"></a>
 - I love Open Source, I love Linux
 
 ---
@@ -20,16 +20,6 @@
 ### My Personal Website
 
 <a href="https://vivekpal.in">vivekpal.in</a>
-
-#
-#### Let's Connect
-
-<p>
-   <a href="https://instagram.com/vivekpal.in/" target="blank"><img align="center" src="https://pluspng.com/img-png/instagram-icon-png-instagram-icon-png-50-px-1600.png" alt="josue_rojasv" height="40" width="40" /></a> ...
- <a href="https://twitter.com/vivekpal0x" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="vivekpal_" height="40" width="40" /></a> ...
-  <a href="https://www.linkedin.com/in/vivekpal1/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/neon-social-icons-set/256/social_media_icons_neon_set_256x256_0010_linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
- 
-</p>
 
 
 ## 

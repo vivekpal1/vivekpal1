@@ -38,7 +38,5 @@ Love to build Open Source
   <img src="https://github.com/vivekpal1/vivekpal1/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
---- -->
-
 > Apply dark mode to view all icons clearly
-
+--- -->

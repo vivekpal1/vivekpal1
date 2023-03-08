@@ -1,19 +1,29 @@
-### Hello Coders 
-## This is Vivek Pal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+### Hello Coders 👋
+# This is Vivek Pal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+**A Full-stack Developer from India**\
+Love to build Open Source
+> In this README, you will find a brief introduction to my projects and links to their source code and websites.
+---
 
-- 👨‍💻 Languages I use <br />
-> <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/icons8-javascript.svg" width="30"> <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/icons8-typescript.svg" width="30"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/icons8-rust-is-a-multi-paradigm-system-programming-language-96.png?raw=true" width="30"> <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/icons8-next.js-144.png" width="30"> <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/threejs.png" width="60"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="30">
+# 🔨 Building
 
-#
+| Project     | Description              | GitHub Repo              | Website                  |
+| ----------- | ------------------------| ------------------------| ------------------------|
+| ShastraOS   | Decentralized Operating system        | https://github.com/shastraos | https://shastraos.org  |
+| Solway      | Smart itineraries planner  | https://github.com/Solway-Shastra | https://github.com/Solway-Shastra |
+| Sol-Pe      | Merchants Payments Dashboard on Solana | https://github.com/Sol-Pe | In progress              |
+| Astra       | Secured Backups on Desktops| https://github.com/vivekpal1 | In progress |
+| MarkitDown  | Markdown Note taking web-app | https://github.com/vivekpal1/markitdown | https://markitdown.vercel.app/ |
+---
 
-- 👨‍💻 Technologies and tools I use <br />
-> <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/icons8-ethereum-48.png" width="30"> <img src="https://www.iconsdb.com/icons/preview/white/linux-xxl.png" width="30"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/787248.png" width="30"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/gnome_512x512.png" width="30"> <img src="[https://github.com/vivekpal1/vivekpal1/blob/main/assets/dff7764bc47d4467874fce8f3670d206.png](https://github.com/vivekpal1/vivekpal1/blob/main/assets/icons8-solana-64.png?raw=true)" width="30"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/dff7764bc47d4467874fce8f3670d206.png" width="30"> <img src="https://forum.obsidian.md/uploads/default/original/2X/6/6df43bc4ee96f0a1b67ff3600caf6879b758a743.png" width="30"> <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/Apps-Inkscape-icon.png" width="30"> <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/37021919.png" width="30"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/blender_logo_socket.png?raw=true" width="90"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/app-icon.png?raw=true" width="30"> <img src="https://github.com/vivekpal1/vivekpal1/blob/main/assets/vim-icon.png?raw=true" width="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/1200px-DaVinci_Resolve_17_logo.svg.png" width="30">
+# Docs & Guides
+**Under Construction**
 
-#
-
-- 🔨 Building
-> <a href="https://shastraos.org/"><img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/shastraos-icon-full02.png" width="100"></a><a href="https://github.com/Solway-Shastra"><img src="https://raw.githubusercontent.com/sol-inn/.github/main/profile/assets/logo.png" width="100"></a>
-- I love Open Source, I love Linux
+| Guide                      | Description                               | GitHub Repo                         |
+| --------------------------| ------------------------------------------| -----------------------------------|
+| Master Linux              | Linux administration and usage            | https://github.com/vivekpal1/masterlinux |
+| WebGL                      | Web graphics programming                   | Under Construction |
+| Awesome Linux Desktop     | Linux desktop customization and tweaks    | https://github.com/vivekpal1/Awesome-Linux-Desktop |
 
 ---
 

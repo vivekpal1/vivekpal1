@@ -27,7 +27,6 @@ Love to build Open Source
 
 ---
 
-## Languages I use the most
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpal1&layout=compact&langs_count=8&show_icons=true&theme=radical)](https://github.com/vivekpal1)
 
 ## My Personal Website

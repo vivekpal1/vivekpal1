@@ -1,5 +1,5 @@
-### Hello Coders 👋
-# This is Vivek Pal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+### hello coders 👋
+# this is vivek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 **A Full-stack Developer from India**\
 Love to build Open Source
 > In this README, you will find a brief introduction to my projects and links to their source code and websites.

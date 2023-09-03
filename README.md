@@ -11,6 +11,7 @@ Love to build Open Source
 | --------------- | -------------------------------------- | --------------------------------------- | ------------------------|
 | **ShastraOS**   | Decentralized Operating system         | https://github.com/shastraos            | https://shastraos.org  |
 | **Solway**      | Smart itineraries planner              | https://github.com/Solway-Shastra       | https://github.com/Solway-Shastra |
+| chatp2p          | simple chat application built on libp2p and wasm | https://github.com/vivekpal1/chat-p2p               | In progress |
 | Sol-Pe          | Merchants Payments Dashboard on Solana | https://github.com/Sol-Pe               | In progress |
 | Astra           | Secured Backups on Desktops            | https://gitlab.com/shastraos/astra      | In progress |
 | **MarkitDown**  | Markdown Note taking web-app           | https://github.com/vivekpal1/markitdown | https://markitdown.vercel.app/ |

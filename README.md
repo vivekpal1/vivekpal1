@@ -1,9 +1,14 @@
-### hello coders 👋
-# this is vivek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+### hello 👋
+## this is vivek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 **A Full-stack Developer from India**\
 Love to build Open Source
 > In this README, you will find a brief introduction to my projects and links to their source code and websites.
 ---
+
+## i love to use these tools
+
+| bun | typescript | javascript | node.js | vue | nuxt.js | next.js | prisma | css | postgresql | tailwindcss |
+| --- | ---------- | ---------- | --------| --- | ------- | --------| -------| --- | ---------- | ----------- |
 
 # 🔨 Building
 
@@ -23,7 +28,6 @@ Love to build Open Source
 | Guide                      | Description                               | GitHub Repo                         |
 | ---------------------------| ------------------------------------------| -----------------------------------|
 | **Master Linux**           | Linux administration and usage            | https://github.com/vivekpal1/masterlinux |
-| WebGL                      | Web graphics programming                  | Under Construction |
 | Awesome Linux Desktop      | Linux desktop customization and tweaks    | https://github.com/vivekpal1/Awesome-Linux-Desktop |
 
 ---

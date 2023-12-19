@@ -15,20 +15,7 @@ Love to build Open Source
 | Project         | Description                            | GitHub Repo                             | Website                  |
 | --------------- | -------------------------------------- | --------------------------------------- | ------------------------|
 | **ShastraOS**   | Decentralized Operating system         | https://github.com/shastraos            | https://shastraos.org  |
-| **Solway**      | Smart itineraries planner              | https://github.com/Solway-Shastra       | https://github.com/Solway-Shastra |
-| Sol-Pe          | Merchants Payments Dashboard on Solana | https://github.com/Sol-Pe               | In progress |
-| Astra           | Secured Backups on Desktops            | https://gitlab.com/shastraos/astra      | In progress |
-| **MarkitDown**  | Markdown Note taking web-app           | https://github.com/vivekpal1/markitdown | https://markitdown.vercel.app/ |
----
-
-# Docs & Guides
-**Under Construction**
-
-| Guide                      | Description                               | GitHub Repo                         |
-| ---------------------------| ------------------------------------------| -----------------------------------|
-| **Master Linux**           | Linux administration and usage            | https://github.com/vivekpal1/masterlinux |
-| Awesome Linux Desktop      | Linux desktop customization and tweaks    | https://github.com/vivekpal1/Awesome-Linux-Desktop |
-
+| Astra           | Secured Backups on Desktops            | https://gitlab.com/shastraos/astra      | In progress |\
 ---
 
 

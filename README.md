@@ -7,7 +7,7 @@ Love to build Open Source
 
 ## i love to use these tools
 
-| bun | typescript | javascript | node.js | vue | nuxt.js | next.js | prisma | css | postgresql | tailwindcss |
+| rust | typescript | javascript | node.js | vue | nuxt.js | next.js | prisma | css | postgresql | tailwindcss |
 | --- | ---------- | ---------- | --------| --- | ------- | --------| -------| --- | ---------- | ----------- |
 
 # 🔨 Building

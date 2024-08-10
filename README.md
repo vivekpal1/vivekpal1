@@ -10,21 +10,14 @@ Love to build Open Source
 | rust | typescript | javascript | node.js | vue | nuxt.js | next.js | prisma | css | postgresql | tailwindcss |
 | --- | ---------- | ---------- | --------| --- | ------- | --------| -------| --- | ---------- | ----------- |
 
-# 🔨 Building
-
-| Project         | Description                            | GitHub Repo                             | Website                  |
-| --------------- | -------------------------------------- | --------------------------------------- | ------------------------|
-| **ShastraOS**   | Decentralized Operating system         | https://github.com/shastraos            | https://shastraos.org  |
-| Astra           | Secured Backups on Desktops            | https://gitlab.com/shastraos/astra      | In progress |\
----
-
+[My Proof of Work](https://github.com/vivekpal1/vivekpal1/blob/main/pow.md)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpal1&layout=compact&langs_count=8&show_icons=true&theme=radical)](https://github.com/vivekpal1)
 
 
 ## My Personal Website
 
-<a href="https://vivekpal.in">vivekpal.in</a>
+<a href="https://vivekpal.xyz">vivekpal.xyz</a>
 
 <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/ososos.gif" width="50">
 

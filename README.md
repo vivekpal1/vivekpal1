@@ -1,11 +1,10 @@
 ### hello 👋
 ## this is vivek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-
+\
 **A Fullstack Developer from India**\
 I Love to build Open Source and Pubic Goods
----
 
-## i love to use these tools
+using these tools
 
 | rust | typescript | javascript | node.js | vue | nuxt.js | next.js | prisma | css | postgresql | tailwindcss |
 | --- | ---------- | ---------- | --------| --- | ------- | --------| -------| --- | ---------- | ----------- |
@@ -19,7 +18,6 @@ I Love to build Open Source and Pubic Goods
 
 <img src="https://raw.githubusercontent.com/vivekpal1/vivekpal1/main/assets/ososos.gif" width="50">
 
-## 
 <!---
 <p align="center">
   <img src="https://github.com/vivekpal1/vivekpal1/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>

@@ -1,8 +1,8 @@
 ### hello 👋
 ## this is vivek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-**A Full-stack Developer from India**\
-Love to build Open Source
-> In this README, you will find a brief introduction to my projects and links to their source code and websites.
+
+**A Fullstack Developer from India**\
+I Love to build Open Source and Pubic Goods
 ---
 
 ## i love to use these tools
@@ -11,8 +11,6 @@ Love to build Open Source
 | --- | ---------- | ---------- | --------| --- | ------- | --------| -------| --- | ---------- | ----------- |
 
 [My Proof of Work](https://github.com/vivekpal1/vivekpal1/blob/main/pow.md)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpal1&layout=compact&langs_count=8&show_icons=true&theme=radical)](https://github.com/vivekpal1)
 
 
 ## My Personal Website

@@ -1,53 +1,122 @@
-# My Projects Portfolio 🚀
+# 🚀 Proof of Work | Vivek Pal
 
-## Operating Systems & Security 🔐
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/vivekpal1?style=social)](https://github.com/vivekpal1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/vivekpal0x?style=social)](https://twitter.com/0xvivekpal)
 
-| ![ShastraOS Image](./assets/shastraos.jpg) | **ShastraOS** | Decentralized Operating System | [GitHub](https://github.com/shastraos) \| [Website](https://shastraos.org) |
-| --- | --- | --- | --- |
-| ![Astra Image](./assets/astra.jpg) | **Astra** | Secured Backups on Desktops | [GitLab](https://gitlab.com/shastraos/astra) \| In progress |
+</div>
 
-## Web3 💰
+## 🧰 Technical Arsenal
 
-| ![Catalyst Image](./assets/catalyst.jpg) | **Catalyst** | Crosschain in dapp asset deposits and purchases | [GitHub](https://github.com/vivekpal1/catalyst) |
-| --- | --- | --- | --- |
-| ![Sol-Pe Image](./assets/solpe.jpg) | **Sol-Pe** | Merchants Payments Dashboard on Solana | [GitHub](https://github.com/Sol-Pe) \| [Website](https://solpe.co/) |
-| ![Avatar Image](./assets/avatar.jpg) | **Avatar** | Solana onchain KYC with Aadhaar | [GitHub](https://github.com/vivekpal1/avatar) |
+```mermaid
+mindmap
+  root((Skills))
+    Systems
+      Rust
+      Linux
+      WASM
+    Web3
+      Solana
+      Ethereum
+      IPFS
+    Frontend
+      React
+      Next.js
+      TypeScript
+    Backend
+      Node.js
+      Bun
+      WebSockets
+```
 
-## Web Applications & Tools 🌐
+## 🏗️ Major Projects
 
-| ![Solway Image](./assets/solway.jpg) | **Solway** | Smart itineraries planner | [GitHub](https://github.com/Solway-Shastra) \| [GitHub](https://github.com/Solway-Shastra) |
-| --- | --- | --- | --- |
-| ![Chat P2P Image](./assets/chatp2p.jpg) | **Chat P2P** | A P2P chat app built with libp2p and wasm | [GitHub](https://github.com/vivekpal1/chat-p2p) |
-| ![Cal3 Image](./assets/cal3.jpg) | **Cal3** | Web calendar dapp | [GitHub](https://github.com/vivekpal1/cal3) |
-| ![MarkitDown Image](./assets/markitdown.jpg) | **MarkitDown** | Markdown Note taking web-app | [GitHub](https://github.com/vivekpal1/markitdown) \| [Website](https://markitdown.vercel.app/) |
+### 🖥️ Operating Systems & Infrastructure
 
-## Linux & System Tools 🐧
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **ShastraOS** | Decentralized desktop workstation with IPFS integration | `Rust`, `GTK`, `IPFS` | [GitHub](https://github.com/shastraos) \| [Website](https://shastraos.org) |
+| **GossipRPC** | P2P RPC implementation using gossipsub | `Rust`, `libp2p` | [GitHub](https://github.com/vivekpal1/gossiprpc) |
+| **Astra** | Secured desktop backups system | `Rust`, `IPFS` | [GitLab](https://gitlab.com/shastraos/astra) |
 
-| ![Master Linux Image](./assets/masterlinux.jpg) | **Master Linux** | Linux administration and usage | [GitHub](https://github.com/vivekpal1/masterlinux) |
-| --- | --- | --- | --- |
-| ![Awesome Linux Desktop Image](./assets/awesomelinux.jpg) | **Awesome Linux Desktop** | Linux desktop customization and tweaks | [GitHub](https://github.com/vivekpal1/Awesome-Linux-Desktop) |
+### 🌐 Web3 Innovations
+
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **Catalyst** | Cross-chain asset deposits & purchases | `Solana`, `Rust` | [GitHub](https://github.com/vivekpal1/catalyst) |
+| **Senshi** | In-game assets management across chains | `Rust`, `Solana` | [GitHub](https://github.com/vivekpal1/senshi) |
+| **Sol-Pe** | Merchant payments dashboard on Solana | `TypeScript`, `Next.js` | [Website](https://solpe.co/) |
+
+### 🛠️ Developer Tools & Applications
+
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| **Chat P2P** | Decentralized chat using libp2p | `Rust`, `WASM`, `libp2p` | [GitHub](https://github.com/vivekpal1/chat-p2p) |
+| **MarkitDown** | Markdown note-taking web app | `TypeScript`, `React` | [Live Demo](https://markitdown.vercel.app/) |
+| **videoVR** | VR video player | `WebVR`, `Three.js` | [GitHub](https://github.com/vivekpal1/videoVR) |
+
+## 🤝 Open Source Contributions
+
+### Active Contributions
+
+| Project | Role | Contributions |
+|---------|------|---------------|
+| **GNOME** | Contributor | Desktop environment components, GTK applications |
+| **FOSSCU** | Maintainer | Community management, FOSS advocacy |
+| **Cubik** | Contributor | Solana initiatives platform |
+
+### Impact Metrics
+
+- 📊 **320+** FOSSCU community members
+- 🔨 **50+** Pull requests merged
+- 🌟 **1000+** GitHub contributions in the last year
+- 🏆 **3** Hackathon wins
+
+## 🎯 Recent Achievements
+
+- 🏅 **Superteam Member** - Elite web3 builders community
+- 🌟 **Wormhole Fellow** - Selected for the Wormhole Fellowship Program
+- 🚀 **Solana Hackathon Winner** - For Solway project
+
+## 📚 Technical Writing
+
+| Topic | Platform | Link |
+|-------|----------|------|
+| Circular Economy for Parallel States | Blog | [Read More](https://vivekpal.in/blog/circular-economy) |
+| Creating Custom Kernel Modules | Technical Guide | [Read More](https://vivekpal.in/blog/kernel-modules) |
+| Modular Systems for Communities | Research | [Read More](https://vivekpal.in/blog/modular-systems) |
+
+## 🌐 Community Impact
+
+### Technical Workshops
+
+| Topic | Audience | Date |
+|-------|----------|------|
+| Linux System Administration | FOSSCU | 2023 |
+| Rust for Systems Programming | University | 2024 |
+| Web3 Development with Solana | Superteam | 2024 |
+
+### Mentorship
+
+- 👨‍🏫 Mentored 20+ developers in systems programming
+- 🎓 Conducted workshops on Linux and FOSS
+- 💡 Guided 5+ projects from ideation to deployment
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-vivekpal.in-blue)](https://vivekpal.xyz)
+[![Email](https://img.shields.io/badge/Email-31vivekpal%40gmail.com-red)](mailto:31vivekpal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vivekpal-blue)](https://linkedin.com/in/vivekpal1)
+
+</div>
 
 ---
 
-## Contributed to: 
-| ![Cubik Image](./assets/cubik.jpg) | **Cubik** | The genesis for leading Solana initiatives | [Github](https://github.com/cubik-so/cubik) |
-| --- | --- | --- | --- |
-| ![GNOME Image](./assets/gnome.jpg) | **GNOME** | FOSS desktop environment. | [GitLab](https://gitlab.gnome.org/GNOME) |
+<div align="center">
+  
+*Building the decentralized future, one commit at a time* 🚀
 
----
-
-# Other Achievements and Work Experience 🌟
-
-## Achievements 🏆
-
-| Achievement | Description | Link |
-| --- | --- | --- |
-| 🌟 **Superteam Member** | Part of the exclusive Superteam community | [Superteam](https://superteam.fun/) |
-| 🚀 **Wormhole Fellow** | Engaged in the Wormhole Fellowship Program | [Wormhole Fellowship](https://wormhole.com/introducing-the-wormhole-fellowship-program/) |
-| 👨‍💻 **FOSSCU Maintainer** | Maintainer of an Open Source community "FOSSCU" with 320+ members | [FOSSCU](http://fosscu.org) |
-
-## Work Experience 🛠️
-
-| Year | Role | Description | Link |
-| --- | --- | --- | --- |
-| 2023 | **Fullstack Engineer** || [Buidlers Tribe](https://buidl.so/) |
+</div>

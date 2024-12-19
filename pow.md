@@ -14,19 +14,20 @@ mindmap
   root((Skills))
     Systems
       Rust
-      Linux
+      libp2p
+      IPFS
       WASM
     Web3
       Solana
       Ethereum
-      IPFS
+      Filecoin
     Frontend
       React
       Next.js
       TypeScript
     Backend
       Node.js
-      Bun
+      Actix
       WebSockets
 ```
 
@@ -34,19 +35,19 @@ mindmap
 
 ### 🖥️ Operating Systems & Infrastructure
 
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
+| Project       | Description                                             | Stack                 | Links                                                                      |
+| ------------- | ------------------------------------------------------- | --------------------- | -------------------------------------------------------------------------- |
 | **ShastraOS** | Decentralized desktop workstation with IPFS integration | `Rust`, `GTK`, `IPFS` | [GitHub](https://github.com/shastraos) \| [Website](https://shastraos.org) |
-| **GossipRPC** | P2P RPC implementation using gossipsub | `Rust`, `libp2p` | [GitHub](https://github.com/vivekpal1/gossiprpc) |
-| **Astra** | Secured desktop backups system | `Rust`, `IPFS` | [GitLab](https://gitlab.com/shastraos/astra) |
+| **GossipRPC** | P2P RPC implementation using gossipsub                  | `Rust`, `libp2p`      | [GitHub](https://github.com/vivekpal1/gossiprpc)                           |
+| **Astra**     | Secured desktop backups system                          | `Rust`, `IPFS`        | [GitLab](https://gitlab.com/shastraos/astra)                               |
 
 ### 🌐 Web3 Innovations
 
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| **Catalyst** | Cross-chain asset deposits & purchases | `Solana`, `Rust` | [GitHub](https://github.com/vivekpal1/catalyst) |
-| **Senshi** | In-game assets management across chains | `Rust`, `Solana` | [GitHub](https://github.com/vivekpal1/senshi) |
-| **Sol-Pe** | Merchant payments dashboard on Solana | `TypeScript`, `Next.js` | [Website](https://solpe.co/) |
+| Project      | Description                             | Stack                   | Links                                           |
+| ------------ | --------------------------------------- | ----------------------- | ----------------------------------------------- |
+| **Catalyst** | Cross-chain asset deposits & purchases  | `Solana`, `Rust`        | [GitHub](https://github.com/vivekpal1/catalyst) |
+| **Senshi**   | In-game assets management across chains | `Rust`, `Solana`        | [GitHub](https://github.com/vivekpal1/senshi)   |
+| **Sol-Pe**   | Merchant payments dashboard on Solana   | `TypeScript`, `Next.js` | [Website](https://solpe.co/)                    |
 
 ### 🛠️ Developer Tools & Applications
 
@@ -68,10 +69,10 @@ mindmap
 
 ### Impact Metrics
 
-- 📊 **320+** FOSSCU community members
+- 📊 **200+** FOSSCU community members
 - 🔨 **50+** Pull requests merged
-- 🌟 **1000+** GitHub contributions in the last year
-- 🏆 **3** Hackathon wins
+- 🌟 **500+** GitHub contributions in the last year
+- 🏆 **5** Hackathon wins
 
 ## 🎯 Recent Achievements
 
@@ -91,11 +92,12 @@ mindmap
 
 ### Technical Workshops
 
-| Topic | Audience | Date |
-|-------|----------|------|
-| Linux System Administration | FOSSCU | 2023 |
-| Rust for Systems Programming | University | 2024 |
-| Web3 Development with Solana | Superteam | 2024 |
+| Topic                       | Audience | Date |
+| --------------------------- | -------- | ---- |
+| Linux System Administration | FOSSCU   | 2023 |
+| WASI                        | JSConf   | 2023 |
+| Custom Kernel Modules       | FOSSCU   | 2023 |
+
 
 ### Mentorship
 

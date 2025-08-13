@@ -1,8 +1,9 @@
 ### hello 👋
 ## this is vivek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 \
-**A Fullstack Developer from India**\
-I Love to build Open Source and Pubic Goods
+**A Backend - Infra focused engineer, lived in Da Nang**\
+I Love to build Open Source and Pubic Goods\
+I am building on Solana
 
 using these tools
 
